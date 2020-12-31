@@ -7,3 +7,6 @@ def sub(a,b) :
 	
 def mul(a,b)  :
 	retutn a*b # Test
+
+dev div(a,b) :
+	retutn a//b
